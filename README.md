@@ -1,5 +1,7 @@
 # Docker Spring Boot Container Build
 
+Oluwaseyi Michael Falode | Cloud & DevOps Engineering | Toronto, ON
+
 A Jenkins CI pipeline that compiles a Spring Boot application with Maven and packages it into a Docker container image — automating the path from source code to a deployable container artifact.
 
 ---
